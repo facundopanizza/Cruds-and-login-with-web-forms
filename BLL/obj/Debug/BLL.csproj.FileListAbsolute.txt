@@ -1,0 +1,11 @@
+C:\Users\facue\source\repos\recuperatorio\BLL\bin\Debug\BLL.dll
+C:\Users\facue\source\repos\recuperatorio\BLL\bin\Debug\BLL.pdb
+C:\Users\facue\source\repos\recuperatorio\BLL\bin\Debug\DAL.dll
+C:\Users\facue\source\repos\recuperatorio\BLL\bin\Debug\ENTITIES.dll
+C:\Users\facue\source\repos\recuperatorio\BLL\bin\Debug\DAL.pdb
+C:\Users\facue\source\repos\recuperatorio\BLL\bin\Debug\ENTITIES.pdb
+C:\Users\facue\source\repos\recuperatorio\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\facue\source\repos\recuperatorio\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\facue\source\repos\recuperatorio\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\facue\source\repos\recuperatorio\BLL\obj\Debug\BLL.dll
+C:\Users\facue\source\repos\recuperatorio\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,17 @@
+C:\Users\facue\source\repos\recuperatorio\DAL\bin\Debug\DAL.dll
+C:\Users\facue\source\repos\recuperatorio\DAL\bin\Debug\DAL.pdb
+C:\Users\facue\source\repos\recuperatorio\DAL\bin\Debug\ENTITIES.dll
+C:\Users\facue\source\repos\recuperatorio\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\facue\source\repos\recuperatorio\DAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\facue\source\repos\recuperatorio\DAL\bin\Debug\System.Security.Permissions.dll
+C:\Users\facue\source\repos\recuperatorio\DAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\facue\source\repos\recuperatorio\DAL\bin\Debug\ENTITIES.pdb
+C:\Users\facue\source\repos\recuperatorio\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\facue\source\repos\recuperatorio\DAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\facue\source\repos\recuperatorio\DAL\bin\Debug\System.Security.Permissions.xml
+C:\Users\facue\source\repos\recuperatorio\DAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\facue\source\repos\recuperatorio\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\facue\source\repos\recuperatorio\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\facue\source\repos\recuperatorio\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\facue\source\repos\recuperatorio\DAL\obj\Debug\DAL.dll
+C:\Users\facue\source\repos\recuperatorio\DAL\obj\Debug\DAL.pdb
